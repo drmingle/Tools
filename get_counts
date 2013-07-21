@@ -1,0 +1,5 @@
+ from pandas import DataFrame, Series
+ 
+  #Records in your data source
+  frame = DataFrame(records)
+ 
